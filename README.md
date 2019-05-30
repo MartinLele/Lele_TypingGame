@@ -1,6 +1,8 @@
 # Lele_TypingGame
 A easy Typing Game with Opengl+Glut
 
+Package.zip:
+The Complied Exe;
 
 _BASE_H_:
 Some simple geometries;
